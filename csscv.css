@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: url("https://storge.pic2.me/upload/937/592bca7baefd4.jpg") no-repeat;
+	background-size: cover;
+}
+div.boder{
+	border: 1px solid white;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white;
+	margin: auto;
+	width:600px;
+	margin-top:30px;
+	padding: 10px;
+}
+#imgcv{
+	border: 2px solid white;
+	float: left;
+	box-shadow: 0px 0px 10px black;
+	width: 130px;
+	height: 130px;
+	border-radius:40px;
+	margin-right: 15px;
+}
+.info{
+	color: aliceblue;
+	text-shadow: 0 0 15px Violet;
+}
+.box{
+	border: 1px solid white;
+	box-shadow: 0px 0px 10px black;
+	border-radius:10px;
+	width: 100%;
+	height: 550px;
+}
+.left{
+	float: left;
+	border-right: 2px solid white;
+	width: 40%;
+	height: 98%;
+	padding: 5px;
+}
+.right{
+	margin-left: 42%;
+	height: 98%;
+	padding: 5px;
+}
+.leftpart{
+	padding: 5px;
+	border-bottom: 2px solid white;
+}
+.rightpart{
+	padding: 5px;
+	border-bottom: 2px solid white;
+}
+#nameskill{
+	float: left;
+	width: 47%;
+	border-right: 2px solid white;
+	margin-right: 10px;
+}
+#starskill{
+	margin-left: 47%;
+	color: aliceblue;
+	text-shadow: 0 0 10px black;
+}
