@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: url("https://storge.pic2.me/upload/937/592bca7baefd4.jpg") no-repeat;
+	background-size: cover;
+	padding-top: 30px;
+}
+.container{
+	background:rgba(0,0,0,0.29);
+	color: aliceblue;
+	border-radius: 10px;
+	box-shadow: 0 0 15px violet;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin: auto;
+}
+#imgcv{
+	border: 2px solid white;
+	height: 150px;
+	width: 150px;
+	border-radius: 30px;
+	box-shadow: 0 0 15px white;
+}
+.text{
+	color: aliceblue;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-shadow: 0 0 20px white;
+}
+.content{
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 10px;
+	padding: 5px;
+	box-shadow: 0 0 15px violet;
+}
+.contentdiv{
+	border-bottom: 2px solid white;
+}
